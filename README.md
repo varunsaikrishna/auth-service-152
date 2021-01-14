@@ -1,1 +1,1 @@
-test: add unit tests for api endpoints\nstyle: format code with prettier\nchore: update dependencies\n
+test: add unit tests for api endpoints\nstyle: format code with prettier\nchore: update dependencies\nfix: handle edge case in data grouping\n
